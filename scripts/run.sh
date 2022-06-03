@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "EXECUTING RUN SCRIPT FROM $HOSTNAME, RUN PHASE"
+npm start

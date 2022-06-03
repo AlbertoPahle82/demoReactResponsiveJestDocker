@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "EXECUTING TEST SCRIPT FROM $HOSTNAME, TEST PHASE"
+npm test
